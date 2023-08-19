@@ -132,7 +132,7 @@
   font-size: 12px;
 }
 /*******************************************/
-/* amenities icons */
+/* amenities the icons */
 /*******************************************/
 .places .amenities ul li{
   display: flex;
@@ -161,3 +161,4 @@
   width: 20px;
   height: 20px;
 }
+
