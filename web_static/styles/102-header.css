@@ -88,7 +88,7 @@ ul li span:hover
   color: #FAFAFA;
   cursor: pointer;
 }
-/* display first level background */
+/* display  first level background */
 #main_check:checked ~ * .nav_bar_level1
 {
   display: block;
@@ -125,3 +125,4 @@ ul li span:hover
 @media only screen and (min-width: 992px) {
 
 }
+
